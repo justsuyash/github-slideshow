@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text("Inserting Witty Statements")
+"Inserting Witty Statements" see I laughed. hahahaha
 Use the left arrow to go back!
